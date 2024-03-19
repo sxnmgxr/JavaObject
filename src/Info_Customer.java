@@ -35,7 +35,7 @@ public class Info_Customer {
         //in the array
         Order orders[] = new Order[5];
         orders[0] = order1;
-        orders[1] = order2;
+        orders[1] = order2;      
         orders[2] = order3;
         orders[3] = order4;
         orders[4] = order5;
