@@ -34,14 +34,6 @@ public void setName(String name){
     this.name = name;
 }
 
-public static String category1() {
-    // TODO Auto-generated method stub
-    throw new UnsupportedOperationException("Unimplemented method 'category1'");
 }
 
-public static String getCategoryId() {
-    // TODO Auto-generated method stub
-    throw new UnsupportedOperationException("Unimplemented method 'getCategoryId'");
-}
 
-}
